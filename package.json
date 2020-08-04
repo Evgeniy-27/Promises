@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "promises",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript живёт в асинхронном мире и большинство операций в нём так же выполняются асинхронно. Вы реализовали возможность экспорта сохранённого прогресса игры в виде JSON. Теперь нужно реализовать загрузку из файла.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -31,5 +31,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-27/Promises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Evgeniy-27/Promises/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-27/Promises#readme"
 }
